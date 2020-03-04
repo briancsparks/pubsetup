@@ -1,0 +1,9 @@
+#!/bin/bash -e
+
+git config --global --add user.name     "Brian C Sparks"
+git config --global --add user.email    "briancsparks@gmail.com"
+git config --global --add push.default  "simple"
+
+
+git config --global alias.l   'log --branches --tags --graph --oneline --decorate --notes HEAD'
+

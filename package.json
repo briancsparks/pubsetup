@@ -1,0 +1,19 @@
+{
+  "name": "pubbcssetup",
+  "version": "1.0.0",
+  "description": "Setup a new Linux host.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briancsparks/setup/issues"
+  },
+  "homepage": "https://github.com/briancsparks/setup#readme"
+}
