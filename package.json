@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Setup a new Linux host.",
   "main": "index.js",
+  "bin": {
+    "imstall":"./imstall",
+    "pubsetup":"./pubsetup"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
