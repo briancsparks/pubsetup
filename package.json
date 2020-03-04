@@ -4,8 +4,7 @@
   "description": "Setup a new Linux host.",
   "main": "index.js",
   "bin": {
-    "imstall":"./imstall",
-    "pubsetup":"./pubsetup"
+    "imstall":"./imstall"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
